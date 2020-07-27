@@ -1,0 +1,15 @@
+{
+  "name": "VueMini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:BaboonKing/VueMini.git",
+  "author": "changfan.xu <changfan.xu.up@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel bulid index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}

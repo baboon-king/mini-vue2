@@ -1,4 +1,4 @@
-import { Watcher } from "./watcher"
+import { Watcher } from "./watcher.js"
 export class Compiler {
   constructor(vm) {
     this.el = vm.$el

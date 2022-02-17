@@ -1,5 +1,5 @@
-import { Compiler } from "./compiler"
-import { Observer } from "./observer"
+import { Compiler } from "./compiler.js"
+import { Observer } from "./observer.js"
 
 export class Vue {
   constructor(options) {

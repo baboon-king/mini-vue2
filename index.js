@@ -1,4 +1,4 @@
-import { Vue } from "./js/vue"
+import { Vue } from "./js/vue.js"
 
 let vm = new Vue({
   el: '#app',

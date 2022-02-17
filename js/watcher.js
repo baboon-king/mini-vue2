@@ -1,4 +1,4 @@
-import { Dep } from "./dep"
+import { Dep } from "./dep.js"
 export class Watcher {
   constructor(vm, key, cb) {
     this.vm = vm
